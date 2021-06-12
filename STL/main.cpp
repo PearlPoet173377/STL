@@ -155,7 +155,7 @@ template<typename T>void reverse_print_vector(const vector<T>& vec)
 {
 	for (vector<int>::const_reverse_iterator it = vec.rbegin(); it != vec.rend(); it++)
 	{
-		cout << *it << endl;
+		cout << *it << tab;
 	}
 	cout << endl;
 
