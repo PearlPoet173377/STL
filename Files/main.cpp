@@ -31,7 +31,7 @@ void main()
 	}
 	fin.close();*/
 
-	ofstream fout;
+	/*ofstream fout;
 	ifstream fin;
 	fout.open("Copy.txt");
 	fin.open("File.txt");
@@ -55,6 +55,8 @@ void main()
 
 	fin.close();
 	fout.close();
-	system("notepad Copy.txt");
+	system("notepad Copy.txt");*/
+
+
 
 }
